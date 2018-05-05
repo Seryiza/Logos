@@ -16,9 +16,36 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="BonasaBonasia_BlackAndWhite.svg">
+   sodipodi:docname="BonasaBonasia_BlackAndWhite.svg"
+   inkscape:export-filename="/home/seryiza/code/logos/BonasaBonasia/png/BonasaBonasia_BlackAndWhite_1024.png"
+   inkscape:export-xdpi="84.283958"
+   inkscape:export-ydpi="84.283958">
   <defs
-     id="defs2" />
+     id="defs2">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask915">
+      <circle
+         style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+         id="circle917"
+         cx="54.702839"
+         cy="51.594166"
+         r="37.417728" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask934">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.11666656;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="circle936"
+         cx="113.18705"
+         cy="52.673347"
+         r="37.417728"
+         inkscape:export-filename="/home/seryiza/code/logos/BonasaBonasia/png/BonasaBonasia_BlackAndWhite_1024.png"
+         inkscape:export-xdpi="458.42282"
+         inkscape:export-ydpi="458.42282" />
+    </mask>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="202.50887"
-     inkscape:cy="118.15083"
+     inkscape:cx="337.80824"
+     inkscape:cy="132.18219"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,54 +93,53 @@
        preserveAspectRatio="none"
        height="123.03125"
        width="169.33333" />
+    <circle
+       style="opacity:1;fill:#101010;fill-opacity:1;stroke:none;stroke-width:0.58507675;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       id="path4547"
+       cx="29.945158"
+       cy="258.77887"
+       r="27.580782"
+       inkscape:export-filename="/home/seryiza/code/logos/BonasaBonasia/png/BonasaBonasia_BlackAndWhite_1024.png"
+       inkscape:export-xdpi="458.42282"
+       inkscape:export-ydpi="458.42282" />
     <g
-       id="g921"
-       transform="translate(2.116665,5.8756006e-6)">
-      <circle
-         r="27.580782"
-         cy="258.35538"
-         cx="27.395397"
-         id="path4547"
-         style="opacity:1;fill:#101010;fill-opacity:1;stroke-width:0.58507675;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal" />
-      <g
-         transform="matrix(0.73710461,0,0,0.73710461,-12.926318,220.32507)"
-         id="g855">
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 74.119012,62.202158 c 0,0 0.56697,-2.267857 -4.157734,-3.96875 -4.724701,-1.700893 3.401784,-1.889881 -14.174107,-4.724703 -17.575892,-2.83482 -36.096725,25.891369 -37.419642,33.072917 -1.322917,7.181547 44.034225,3.96875 44.034225,3.96875 0,0 0.566965,-11.90625 -0.944941,-15.875 -1.511903,-3.96875 8.693452,-5.858631 9.260417,-7.181548 0.566965,-1.322916 0.566965,-4.724702 -0.944941,-5.480654 -1.511903,-0.755953 4.346723,0.188988 4.346723,0.188988 z"
-           id="path3724"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.11666656;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           d="m 56.543123,59.556325 c 0,0 1.322916,1.88988 4.346725,1.511904 3.023812,-0.377976 1.13393,-3.779762 -1.511903,-3.779762 -2.645833,0 -1.322917,0.755953 -1.322917,0.755953 v 0 0"
-           id="path4537"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="matrix(0.73710461,0,0,0.73710461,-11.372884,220.32507)"
-         id="g859">
-        <path
-           style="fill:none;stroke:#101010;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 100.12085,61.693865 c 0,0 -0.566966,-2.267858 4.15774,-3.96875 4.72471,-1.700896 -3.40178,-1.889882 14.17412,-4.724705 17.57589,-2.83482 36.09672,25.891369 37.41964,33.072917 1.32292,7.181548 -44.03422,3.96875 -44.03422,3.96875 0,0 -0.56697,-11.90625 0.94494,-15.875 1.5119,-3.96875 -8.69347,-5.858632 -9.26043,-7.181548 -0.56697,-1.322914 -0.56697,-4.724702 0.94494,-5.480654 1.5119,-0.755951 -4.34673,0.18899 -4.34673,0.18899 z"
-           id="path3724-6"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#101010;stroke-width:2.11666656;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           d="m 117.69676,59.048031 c 0,0 -1.32292,1.889879 -4.34673,1.511903 -3.02381,-0.377975 -1.13393,-3.779763 1.5119,-3.779763 2.64584,0 1.32292,0.755954 1.32292,0.755954 v 0 0"
-           id="path4537-7"
-           inkscape:connector-curvature="0" />
-      </g>
+       id="g855"
+       transform="matrix(0.73710461,0,0,0.73710461,-10.376558,220.74859)"
+       mask="url(#mask915)">
       <path
          inkscape:connector-curvature="0"
-         id="path861"
-         d="m 68.936357,286.7628 5.713159,0.0985 6.00867,-1.28053 6.304183,-3.05359 5.220647,-4.43263 4.432623,-6.20568 1.182039,-2.06856 7.387712,12.80537 -0.68953,3.05359 -4.531122,2.06856 -20.587087,1.47754 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19533271;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <circle
-         r="27.580782"
-         cy="259.15085"
-         cx="72.057808"
-         id="path4547-3"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#101010;stroke-width:1.56020463;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+         id="path3724"
+         d="m 74.119012,62.202158 c 0,0 0.56697,-2.267857 -4.157734,-3.96875 -4.724701,-1.700893 3.401784,-1.889881 -14.174107,-4.724703 -17.575892,-2.83482 -36.096725,25.891369 -37.419642,33.072917 -1.322917,7.181547 44.034225,3.96875 44.034225,3.96875 0,0 0.566965,-11.90625 -0.944941,-15.875 -1.511903,-3.96875 8.693452,-5.858631 9.260417,-7.181548 0.566965,-1.322916 0.566965,-4.724702 -0.944941,-5.480654 -1.511903,-0.755953 4.346723,0.188988 4.346723,0.188988 z"
+         style="fill:none;stroke:#ffffff;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4537"
+         d="m 56.543123,59.556325 c 0,0 1.322916,1.88988 4.346725,1.511904 3.023812,-0.377976 1.13393,-3.779762 -1.511903,-3.779762 -2.645833,0 -1.322917,0.755953 -1.322917,0.755953 v 0 0"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.11666656;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     </g>
+    <g
+       id="g859"
+       transform="matrix(0.73710461,0,0,0.73710461,-8.8231241,220.74859)"
+       mask="url(#mask934)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3724-6"
+         d="m 100.12085,61.693865 c 0,0 -0.566966,-2.267858 4.15774,-3.96875 4.72471,-1.700896 -3.40178,-1.889882 14.17412,-4.724705 17.57589,-2.83482 36.09672,25.891369 37.41964,33.072917 1.32292,7.181548 -44.03422,3.96875 -44.03422,3.96875 0,0 -0.56697,-11.90625 0.94494,-15.875 1.5119,-3.96875 -8.69347,-5.858632 -9.26043,-7.181548 -0.56697,-1.322914 -0.56697,-4.724702 0.94494,-5.480654 1.5119,-0.755951 -4.34673,0.18899 -4.34673,0.18899 z"
+         style="fill:none;stroke:#101010;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4537-7"
+         d="m 117.69676,59.048031 c 0,0 -1.32292,1.889879 -4.34673,1.511903 -3.02381,-0.377975 -1.13393,-3.779763 1.5119,-3.779763 2.64584,0 1.32292,0.755954 1.32292,0.755954 v 0 0"
+         style="fill:none;fill-opacity:1;stroke:#101010;stroke-width:2.11666656;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#101010;stroke-width:1.56020463;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path4547-3"
+       cx="74.607574"
+       cy="259.57434"
+       r="27.580782"
+       inkscape:export-filename="/home/seryiza/code/logos/BonasaBonasia/png/BonasaBonasia_BlackAndWhite_1024.png"
+       inkscape:export-xdpi="458.42282"
+       inkscape:export-ydpi="458.42282" />
   </g>
 </svg>

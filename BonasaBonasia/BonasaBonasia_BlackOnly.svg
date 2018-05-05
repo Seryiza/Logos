@@ -16,9 +16,36 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="BonasaBonasia_BlackOnly.svg">
+   sodipodi:docname="BonasaBonasia_BlackOnly.svg"
+   inkscape:export-filename="/home/seryiza/code/logos/BonasaBonasia/png/BonasaBonasia_BlackAndWhite_1024.png"
+   inkscape:export-xdpi="84.283958"
+   inkscape:export-ydpi="84.283958">
   <defs
-     id="defs2" />
+     id="defs2">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask915">
+      <circle
+         style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+         id="circle917"
+         cx="54.702839"
+         cy="51.594166"
+         r="37.417728" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask934">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.11666656;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="circle936"
+         cx="113.18705"
+         cy="52.673347"
+         r="37.417728"
+         inkscape:export-filename="/home/seryiza/code/logos/BonasaBonasia/png/BonasaBonasia_BlackAndWhite_1024.png"
+         inkscape:export-xdpi="458.42282"
+         inkscape:export-ydpi="458.42282" />
+    </mask>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="208.22315"
-     inkscape:cy="117.43654"
+     inkscape:cx="195.66539"
+     inkscape:cy="139.32505"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,16 +94,20 @@
        height="123.03125"
        width="169.33333" />
     <g
-       id="g968"
-       transform="translate(22.987939,0.42350427)">
+       id="g990"
+       transform="translate(22.554844)">
       <circle
+         inkscape:export-ydpi="458.42282"
+         inkscape:export-xdpi="458.42282"
+         inkscape:export-filename="/home/seryiza/code/logos/BonasaBonasia/png/BonasaBonasia_BlackAndWhite_1024.png"
          r="27.580782"
-         cy="258.35538"
-         cx="29.512062"
+         cy="258.77887"
+         cx="29.945158"
          id="path4547"
-         style="opacity:1;fill:#101010;fill-opacity:1;stroke-width:0.58507675;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal" />
+         style="opacity:1;fill:#101010;fill-opacity:1;stroke:none;stroke-width:0.58507675;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal" />
       <g
-         transform="matrix(0.73710461,0,0,0.73710461,-10.809653,220.32508)"
+         mask="url(#mask915)"
+         transform="matrix(0.73710461,0,0,0.73710461,-10.376558,220.74859)"
          id="g855">
         <path
            style="fill:none;stroke:#ffffff;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
